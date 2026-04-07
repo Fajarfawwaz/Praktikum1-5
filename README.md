@@ -75,6 +75,16 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 1. **Tampilan Home User:**
 <img width="1917" height="931" alt="Screenshot 2026-04-07 123939" src="https://github.com/user-attachments/assets/fc549396-5e71-495e-b0a3-9369ee94efbe" />
 
+**TAMPILAN ARTIKEL:**
+<img width="1915" height="933" alt="image" src="https://github.com/user-attachments/assets/ded9bb8e-dc40-4f02-8402-1264b077006b" />
+
+**TAMPILAN ABOUT:**
+<img width="1919" height="951" alt="image" src="https://github.com/user-attachments/assets/0b213eda-66d1-4708-9883-cea56fba9ad4" />
+
+**TAMPILAN CONTACT:**
+<img width="1919" height="963" alt="image" src="https://github.com/user-attachments/assets/3d5d9c54-d2d9-4a1b-9a2d-f5be42c9c0e6" />
+
+
 2. **Dashboard Admin:**
 <img width="1919" height="945" alt="image" src="https://github.com/user-attachments/assets/71db630f-e8b4-42f1-a981-96a9329a3a49" />
 
