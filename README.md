@@ -5,10 +5,11 @@ Dokumentasi ini disusun sebagai laporan komprehensif pengerjaan Modul 1 hingga M
 
 ---
 
-## 👤 Profil Pengembang
+## 👤 IDENTITAS SAYA :
 * **Nama:** Fajar Fawwaz Atallah
 * **NIM:** 312410357
-* **Kelas:** TI.24.A4
+* **Kelas:** TI.24.A4/I241D
+* **Matkul:** Pemrograman Website 2
 
 ---
 
@@ -70,7 +71,6 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 ---
 
 ## 📸 Bukti Hasil Praktikum
-*(Silakan lampirkan screenshot kamu di sini)*
 
 1. **Tampilan Home User:**
 <img width="1917" height="931" alt="Screenshot 2026-04-07 123939" src="https://github.com/user-attachments/assets/fc549396-5e71-495e-b0a3-9369ee94efbe" />
