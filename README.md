@@ -70,6 +70,9 @@ Menyempurnakan antarmuka saat data sudah berjumlah banyak.
 
 ---
 
+## DI KARENAKAN FILE NYA TIDAK BISA DI UPLOAD SEMUA KE DALAM GITHUB, JADI SAYA MEMBUAT LINK UNTUK MENGAKSES SEMUA FILE NYA :
+**https://drive.google.com/drive/folders/1Ykv6ji9g2z9rLGGT300JYbav39uYaoRM?usp=sharing**
+
 ## 📸 Bukti Hasil Praktikum
 
 1. **Tampilan Home User:**
